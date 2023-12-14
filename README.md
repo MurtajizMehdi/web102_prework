@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Adobe Express
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some difficulties I encountered were primarily with my knowledge of JavaScript. I was under the impression that I knew more than I actually did, so I had to continuously revisit some course videos and lectures.
 
 ## License
 
