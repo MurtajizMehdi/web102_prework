@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![web102-prework](https://github.com/MurtajizMehdi/TicTacToe/assets/90480945/b5bf33ea-fde0-45e3-b836-37acfa557bfa)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
